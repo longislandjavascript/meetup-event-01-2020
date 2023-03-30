@@ -1,4 +1,4 @@
-![LIJS Logo](https://res.cloudinary.com/just214/image/upload/v1680206584/LIJS/lijs-logo_.png)
+![LIJS Logo](https://github.com/longislandjavascript/longislandjavascript/blob/main/logo.png)
 
 # Meetup Event: January 2020
 ### React Hooks- Revisited
