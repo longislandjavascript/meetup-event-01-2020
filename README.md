@@ -1,7 +1,7 @@
 ![LIJS Logo](https://res.cloudinary.com/just214/image/upload/v1680206584/LIJS/lijs-logo_.png)
 
 # Meetup Event: January 2020
-## React Hooks- Revisited
+### React Hooks- Revisited
 
 [View Event on Meetup](https://www.meetup.com/long-island-javascript/events/zjlpklybccbmc/)
 
