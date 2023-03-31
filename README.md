@@ -1,4 +1,4 @@
-![LIJS Logo](https://raw.githubusercontent.com/longislandjavascript/longislandjavascript/main/public/logo.png)
+[![LIJS Logo](https://raw.githubusercontent.com/longislandjavascript/longislandjavascript/main/public/logo.png)](https://www.lijs.org)
 
 # Meetup Event: January 2020
 ### React Hooks- Revisited
